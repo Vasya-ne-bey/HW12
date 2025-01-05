@@ -7,5 +7,8 @@ public class Main {
         Book warAndPeace = new Book ("Война и мир", 1870, vasiliy);
 
         warAndPeace.setYear(1871);
+
+        System.out.println();
+        System.out.println(dune);
     }
 }
